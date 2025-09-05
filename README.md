@@ -14,11 +14,6 @@ MindMate helps users build healthier daily habits through short conversational c
 
 ---
 
-## 🎬 Video-Link
-https://drive.google.com/drive/folders/1OrXgx0pGqw3528OFfuNBvFRoKVTd3Ko5?usp=sharing
-
----
-
 ## 💚 Problem Statement
 
 Many people live with daily stress, anxiety, and burnout but lack a low-friction, affordable, and stigma-free way to check in with their mental health. Existing tools are often generic, hard to maintain, or expensive. MindMate provides gentle, science-backed daily check-ins and personalized mindfulness exercises so users can cultivate consistent self-care and spot patterns before issues escalate.
