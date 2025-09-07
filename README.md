@@ -194,8 +194,9 @@ MIT License - see LICENSE file for details.
 
 For questions about this demo:
 - Open an issue on GitHub
-- Contact: demo@mindmate.test
+- Contact: vrundpatel153@gmail.com
 
 ---
+
 
 **Important:** This is a demonstration app. For real mental health support, please consult qualified professionals.
