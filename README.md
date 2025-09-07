@@ -1,6 +1,8 @@
 # MindMate Chatbot Frontend
 
 A complete, production-ready mental health companion built with React, TypeScript, and Tailwind CSS. Features AI-powered conversations, guided wellness exercises, mood tracking, and personal insights.
+### VIDEO LINK
+https://drive.google.com/drive/folders/1YOUqBGvC3bJ2PnqZY5x2YrOwoQIk5F-T?usp=sharing
 
 ## 🚀 Quick Start
 
@@ -200,3 +202,4 @@ For questions about this demo:
 
 
 **Important:** This is a demonstration app. For real mental health support, please consult qualified professionals.
+
